@@ -5,7 +5,7 @@
     * <font color=red>NOTE:</font> choose .gitignore type as Java
 2. Open terminal in project folder, and perform the following commands:
     <br>git init
-    <br>git remote add origin https://github.com/gleideveloper/JavaCourse.git
+    <br>git remote add origin https://github.com/gleideveloper/project-chess-java.git
     <br>git pull origin master
     <br>git add .
     <br>git commit -m "Project created"
