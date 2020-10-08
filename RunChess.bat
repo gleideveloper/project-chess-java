@@ -1,0 +1,1 @@
+C:\Users\gleid\.jdks\openjdk-15\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020\lib\idea_rt.jar=51962:C:\Program Files\JetBrains\IntelliJ IDEA 2020\bin" -Dfile.encoding=UTF-8 -classpath C:\Workspace\IdeaProjects\JavaCourse\out\production\JavaCourse application.ProgramChessGame
