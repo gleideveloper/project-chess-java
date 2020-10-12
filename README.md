@@ -29,7 +29,7 @@
     * Matrix
     
 ## Chess layer and printing the board
-<img src="/project-chess-game/resources/boardChess.png" alt="Board"/>
+![Alt text](src/resources/boardChess.png?raw=true "Injeção de Dependeência")
 
 <b>Checklist:</b>
 Methods: Board.Piece(row, column) and Board.Piece(position)
